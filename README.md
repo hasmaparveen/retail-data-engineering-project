@@ -64,7 +64,7 @@ python scripts/load_to_warehouse.py
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Built end-to-end ETL pipeline
 - Implemented layered data architecture
 - Created local data warehouse
