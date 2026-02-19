@@ -1,6 +1,6 @@
 # 🛍 Retail Data Engineering Pipeline
 
-## 📌 Project Overview
+## Project Overview
 This project simulates an end-to-end retail data engineering pipeline using Python and SQLite.
 
 It follows the Medallion Architecture:
@@ -12,7 +12,7 @@ It follows the Medallion Architecture:
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 retail-data-engineering-project/
 │
@@ -34,7 +34,7 @@ retail-data-engineering-project/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1️⃣ Create Virtual Environment
 python -m venv venv
@@ -54,7 +54,7 @@ python scripts/load_to_warehouse.py
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Faker
