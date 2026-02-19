@@ -1,4 +1,4 @@
-# 🛍 Retail Data Engineering Pipeline
+# Retail Data Engineering Pipeline
 
 ## Project Overview
 This project simulates an end-to-end retail data engineering pipeline using Python and SQLite.
